@@ -7,7 +7,7 @@ let adjestInterval = undefined;
 
 
 
-const Stopwatch = () => {
+const App = () => {
      
   const [watch, setWatch] = useState(0)
   const [started, setStarted] = useState(false)
@@ -49,6 +49,6 @@ const Stopwatch = () => {
     )
 }
 
-export default Stopwatch;
+export default App;
 
 

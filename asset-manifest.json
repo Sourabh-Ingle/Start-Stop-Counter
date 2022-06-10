@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Start-Stop-Counter/static/css/main.0633843d.css",
+    "main.js": "/Start-Stop-Counter/static/js/main.4086f14e.js",
+    "static/js/787.1c3bbaa3.chunk.js": "/Start-Stop-Counter/static/js/787.1c3bbaa3.chunk.js",
+    "index.html": "/Start-Stop-Counter/index.html",
+    "main.0633843d.css.map": "/Start-Stop-Counter/static/css/main.0633843d.css.map",
+    "main.4086f14e.js.map": "/Start-Stop-Counter/static/js/main.4086f14e.js.map",
+    "787.1c3bbaa3.chunk.js.map": "/Start-Stop-Counter/static/js/787.1c3bbaa3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0633843d.css",
+    "static/js/main.4086f14e.js"
+  ]
+}
